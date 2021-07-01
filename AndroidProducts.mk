@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_apollon.mk
+    $(LOCAL_DIR)/evolution_apollon.mk
 
 COMMON_LUNCH_CHOICES := \
-    fluid_apollon-user \
-    fluid_apollon-userdebug \
-    fluid_apollon-eng
+    evolution_apollon-user \
+    evolution_apollon-userdebug \
+    evolution_apollon-eng
