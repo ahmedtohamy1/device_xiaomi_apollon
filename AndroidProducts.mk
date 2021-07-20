@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_apollon.mk
+    $(LOCAL_DIR)/spark_apollon.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_apollon-user \
-    evolution_apollon-userdebug \
-    evolution_apollon-eng
+    spark_apollon-user \
+    spark_apollon-userdebug \
+    spark_apollon-eng
