@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_apollon.mk
+    $(LOCAL_DIR)/evolution_apollon.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_apollon-user \
-    lineage_apollon-userdebug \
-    lineage_apollon-eng
+    evolution_apollon-user \
+    evolution_apollon-userdebug \
+    evolution_apollon-eng
