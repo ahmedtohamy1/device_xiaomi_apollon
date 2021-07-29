@@ -335,4 +335,7 @@
     <!-- The default peak refresh rate. -->
     <integer name="config_defaultPeakRefreshRate">144</integer>
 
+    <!-- Wheather enable/disable LiveDisplay  -->
+    <bool name="config_enableLiveDisplay">false</bool>
+
 </resources>
