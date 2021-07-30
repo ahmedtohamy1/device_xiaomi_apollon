@@ -338,4 +338,7 @@
     <!-- Wheather enable/disable LiveDisplay  -->
     <bool name="config_enableLiveDisplay">false</bool>
 
+    <!-- Whether to show settings for hiding notch fill -->
+    <bool name="config_showHideNotchSettings">true</bool>
+
 </resources>
