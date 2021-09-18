@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xdroid_apollo.mk
+    $(LOCAL_DIR)/conquer_apollo.mk
 
 COMMON_LUNCH_CHOICES := \
-    xdroid_apollo-user \
-    xdroid_apollo-userdebug \
-    xdroid_apollo-eng
+    conquer_apollo-user \
+    conquer_apollo-userdebug \
+    conquer_apollo-eng
